@@ -2,7 +2,7 @@ import "./App.css";
 import Nav from "./components/nav";
 
 function App() {
-  let post = "강남 우동 맛집";
+  let post = "Body line";
 
   return (
     <div className="App">
